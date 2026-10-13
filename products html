@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products & Services - Kenya Marine Supplies Ltd</title>
+</head>
+<body>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="products.html">Products & Services</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+    <hr>
+
+    <!-- Main Heading -->
+    <h1>Our Products and Services</h1>
+
+    <!-- Section 1: Boats -->
+    <h2>1. Boats for Sale</h2>
+    <p>We supply a wide range of durable vessels customized for both freshwater and saltwater operations:</p>
+    <ul>
+        <li><strong>Fishing Boats:</strong> Specially built for artisanal and commercial deep-sea or lake fishing.</li>
+        <li><strong>Passenger Boats:</strong> Comfortable and safety-compliant watercraft designed for local transport and tourism charters.</li>
+        <li><strong>Speedboats:</strong> High-performance motorized boats suited for quick transfers, coastal patrols, and recreational activities.</li>
+    </ul>
+    <!-- Image 1 (Live Unsplash Link) -->
+    <img src="https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?auto=format&fit=crop&w=600&q=80" alt="Speedboats and passenger boats" width="500">
+
+    <!-- Section 2: Transport Services -->
+    <h2>2. Marine Transport Services</h2>
+    <p>Efficient transit solutions operating across major Kenyan waterways:</p>
+    <ul>
+        <li><strong>Passenger Transport:</strong> Scheduled and charter passenger vessel travel along coastal points and Lake Victoria islands.</li>
+        <li><strong>Cargo Transport:</strong> Reliable shipping for agricultural produce, commercial supplies, and heavy machinery.</li>
+        <li><strong>Boat Hire:</strong> Flexible daily or weekly watercraft rentals for private excursions and corporate surveys.</li>
+    </ul>
+    <!-- Image 2 (Live Unsplash Link) -->
+    <img src="https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=600&q=80" alt="Cargo marine transport vessel" width="500">
+
+    <!-- Section 3: Equipment -->
+    <h2>3. Marine & Aquatic Equipment</h2>
+    <p>Equipping your boats with top-tier gear for safety and operational performance:</p>
+    <ul>
+        <li><strong>Safety Equipment:</strong> Certified life jackets, life buoys, and emergency flares.</li>
+        <li><strong>Fishing Gear:</strong> Industrial-grade fishing nets, lines, and tackle.</li>
+        <li><strong>Navigation Tools:</strong> Modern GPS systems, fish finders, and marine compasses.</li>
+        <li><strong>Propulsion:</strong> Heavy-duty outboard and inboard boat engines with genuine spare parts.</li>
+    </ul>
+    <!-- Image 3 (Live Unsplash Link) -->
+    <img src="https://images.unsplash.com/photo-1520255870062-bd79d3865de7?auto=format&fit=crop&w=600&q=80" alt="Marine motor engine and equipment" width="500">
+
+    <hr>
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Kenya Marine Supplies Ltd. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
+

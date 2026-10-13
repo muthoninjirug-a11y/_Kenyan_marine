@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Kenya Marine Supplies Ltd</title>
+</head>
+<body>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="products.html">Products & Services</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+    <hr>
+
+    <!-- Main Heading -->
+    <h1>About Kenya Marine Supplies Ltd</h1>
+
+    <!-- Establishment Description -->
+    <h2>Our Company History</h2>
+    <p>Kenya Marine Supplies Ltd was established to fulfill the growing demand for safe, reliable, and modern marine infrastructure in East Africa. From humble beginnings serving coastal fishermen in Mombasa, we have grown into a comprehensive marine equipment and service provider across the Kenyan coastline and the waters of Lake Victoria.</p>
+
+    <!-- Mission and Vision -->
+    <h2>Mission & Vision</h2>
+    <p><strong>Our Mission:</strong> To empower local maritime industries, transportation, and trade by providing dependable watercraft, equipment, and transport services that meet international safety standards.</p>
+    <p><strong>Our Vision:</strong> To be the leading and most trusted maritime solutions provider in East Africa, driving sustainable economic growth along Kenya’s aquatic trade routes.</p>
+
+    <!-- Operations Description -->
+    <h2>Operations in Kenya's Marine Industry</h2>
+    <p>Our operations support small-scale local enterprises as well as large-scale shipping companies. By strategically placing service hubs near key coastal ports and inland water transport networks like Lake Victoria, we ensure quick access to crucial supplies, emergency boat repairs, and continuous transport service.</p>
+
+    <!-- Image (Live Unsplash Link) -->
+    <img src="https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80" alt="Marine activities along the coast" width="600">
+
+    <hr>
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Kenya Marine Supplies Ltd. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>

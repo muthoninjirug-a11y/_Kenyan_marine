@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenya Marine Supplies Ltd - Home</title>
+</head>
+<body>
+
+    <!-- Main Heading -->
+    <h1>Kenya Marine Supplies Ltd</h1>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="products.html">Products & Services</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+    <hr>
+
+    <!-- Welcome Paragraph -->
+    <p>Welcome to Kenya Marine Supplies Ltd, your premier partner for high-quality marine transport, top-tier boats, and commercial aquatic equipment across Kenya. Serving local fishermen, tourism operators, and shipping enterprises, we are committed to keeping your watercraft operations safe and efficient.</p>
+
+    <!-- Featured Image (Live Unsplash Link) -->
+    <img src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80" alt="Boats and marine transport" width="600">
+
+    <!-- Description of Main Business Activities -->
+    <h2>Our Core Business Activities</h2>
+    <p>We specialize in key marine solutions designed for Kenya's ocean and lake environments:</p>
+    <ul>
+        <li><strong>Boat Sales:</strong> Providing reliable fishing vessels, speedboats, and passenger ferries.</li>
+        <li><strong>Marine Transport Services:</strong> Offering passenger travel, heavy freight cargo, and custom boat hire options.</li>
+        <li><strong>Aquatic & Marine Equipment:</strong> Supplying essential tools including life jackets, marine engines, nets, and navigation equipment.</li>
+    </ul>
+
+    <hr>
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Kenya Marine Supplies Ltd. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Kenya Marine Supplies Ltd</title>
+</head>
+<body>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About Us</a> |
+        <a href="products.html">Products & Services</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+    <hr>
+
+    <!-- Main Heading -->
+    <h1>Contact Kenya Marine Supplies Ltd</h1>
+
+    <!-- Invitation Paragraph -->
+    <p>Have questions about purchasing a vessel, buying marine gear, or booking transport services? Get in touch with our expert team today! We are here to assist with all your commercial and personal marine needs.</p>
+
+    <!-- Location & Contact Info -->
+    <h2>Get in Touch</h2>
+    <p><strong>Physical Location:</strong> Marine Drive, Beachfront Plaza, Mombasa, Kenya</p>
+    <p><strong>Telephone:</strong> +254 700 000 000</p>
+    <p><strong>Email:</strong> info@kenyamarinesupplies.co.ke</p>
+
+    <!-- Links -->
+    <h2>Quick Links</h2>
+    <p>
+        Send us an email directly: 
+        <a href="mailto:info@kenyamarinesupplies.co.ke">Click here to send an Email</a>
+    </p>
+    <p>
+        Visit our official website / social media page: 
+        <a href="https://www.facebook.com" target="_blank">Visit Our Social Media Page</a>
+    </p>
+
+    <br>
+    <!-- Image (Live Unsplash Link) -->
+    <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80" alt="Kenya Marine Premises on the coast" width="600">
+
+    <hr>
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Kenya Marine Supplies Ltd. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
